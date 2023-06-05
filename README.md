@@ -3,8 +3,6 @@
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BreadJS&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 ## ⚡ Technologies
 
 ### Languages:
